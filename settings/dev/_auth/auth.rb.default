@@ -1,0 +1,11 @@
+@init_user = {
+  'user' => 'root',
+  'pass' => '',
+  'key' => '',
+}
+
+@admin_user = {
+  'user' => 'admin',
+  'pass' => '',
+  'key' => '~/.ssh/id_rsa',
+}
